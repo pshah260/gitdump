@@ -1,0 +1,189 @@
+PLAYER,Team,Role,Overseas,Price
+MS  Dhoni,CSK,W,False,9.5
+Imran  Tahir,CSK,P,True,9.5
+Lungi  Ngidi,CSK,P,True,8.5
+Ruturaj  Gaikwad,CSK,B,False,6
+Shane  Watson,CSK,B,True,10.5
+Ambati  Rayudu,CSK,B,False,9
+Murali  Vijay,CSK,B,False,7.5
+Kedar  Jadhav,CSK,A,False,8
+Ravindra  Jadeja,CSK,A,False,8.5
+Deepak  Chahar,CSK,P,False,8.5
+Piyush  Chawla,CSK,P,False,7.5
+Narayan  Jagadeesan,CSK,W,False,6
+Mitchell  Santner,CSK,A,True,7
+KM  Asif,CSK,P,False,6
+Shardul  Thakur,CSK,P,False,8.5
+R  Sai  Kishore,CSK,P,False,5.5
+Faf  du  Plessis,CSK,B,True,10
+Monu  Kumar,CSK,P,False,5.5
+Dwayne  Bravo,CSK,A,True,9
+Josh  Hazlewood,CSK,P,True,8
+Sam  Curran,CSK,A,True,8.5
+Karn  Sharma,CSK,P,False,7
+Suresh  Raina,CSK,B,False,10
+Shreyas  Iyer, DC,B,False,9.5
+Kagiso  Rabada, DC,P,True,9.5
+Marcus  Stoinis, DC,A,True,8.5
+Sandeep  Lamichhane, DC,P,True,8
+Ishant  Sharma, DC,P,False,8
+Ajinkya  Rahane, DC,B,False,9
+Ravichandran  Ashwin, DC,P,False,8.5
+Shikhar  Dhawan, DC,B,False,10
+Shimron  Hetmyer, DC,B,True,8.5
+Daniel  Sams, DC,A,True,8
+Alex  Carey, DC,W,True,8
+Mohit  Sharma, DC,P,False,7.5
+Prithvi  Shaw, DC,B,False,8.5
+Lalith  Yadav, DC,A,False,6
+Avesh  Khan, DC,P,False,6.5
+Axar  Patel, DC,A,False,8
+Tushar  Deshpande, DC,P,False,5.5
+Anrich  Nortje, DC,P,True,8.5
+Rishabh  Pant, DC,W,False,10
+Harshal  Patel, DC,P,False,6.5
+Keemo  Paul, DC,A,True,7
+Amit  Mishra, DC,P,False,8
+KL  Rahul,KXI,W,False,12
+Harpreet  Brar,KXI,P,False,5
+Ishan  Porel,KXI,P,False,6.5
+Mandeep  Singh,KXI,B,False,7.5
+Jimmy  Neesham,KXI,A,True,8.5
+Tajinder  Singh,KXI,A,False,6
+Chris  Jordan,KXI,P,True,8.5
+Karun  Nair,KXI,B,False,8
+Deepak  Hooda,KXI,B,False,7
+Ravi  Bishnoi,KXI,P,False,6.5
+Arshdeep  Singh,KXI,P,False,6
+Glenn  Maxwell,KXI,A,True,10
+Mujeeb  Ur  Rahman,KXI,P,True,8.5
+Sarfaraz  Khan,KXI,B,False,7.5
+Sheldon  Cottrell,KXI,P,True,8.5
+Mayank  Agarwal,KXI,B,False,8.5
+Mohammad  Shami,KXI,P,False,9
+Darshan  Nalkande,KXI,P,False,6
+Nicholas  Pooran,KXI,W,True,8.5
+Chris  Gayle,KXI,B,True,10
+Murugan  Ashwin,KXI,P,False,7
+Jagadeesha  Suchith,KXI,P,False,6.5
+Krishnappa  Gowtham,KXI,A,False,8
+Hardus  Viljoen,KXI,P,True,7
+Simran  Singh,KXI,B,False,5.5
+Dinesh  Karthik,KKR,W,False,9
+Shivam  Mavi,KKR,P,False,7
+Sandeep  Warrier,KKR,P,False,7
+Kuldeep  Yadav,KKR,P,False,8.5
+Eoin  Morgan,KKR,B,True,9.5
+Pat  Cummins,KKR,P,True,9.5
+Sunil  Narine,KKR,A,True,9.5
+Nikhil  Naik,KKR,W,False,6
+M  Siddharth,KKR,P,False,5.5
+Andre  Russell,KKR,A,True,12.5
+Lockie  Ferguson,KKR,P,True,8.5
+Prasidh  Krishna,KKR,P,False,7.5
+Shubman  Gill,KKR,B,False,8.5
+Nitish  Rana,KKR,B,False,8.5
+Siddhesh  Lad,KKR,B,False,6
+Kamlesh  Nagarkoti,KKR,P,False,6.5
+Rinku  Singh,KKR,B,False,6.5
+Varun  Chakravarthy,KKR,P,False,6.5
+Ali  Khan,KKR,P,True,6
+Tom  Banton,KKR,W,True,6.5
+Chris  Green,KKR,A,True,7
+Rahul  Tripathi,KKR,B,False,7
+Rohit  Sharma,MI,B,False,12.5
+Aditya  Tare,MI,W,False,6
+Anmolpreet  Singh,MI,B,False,6
+Anukul  Roy,MI,A,False,5.5
+Dhawal  Kulkarni,MI,P,False,7
+Hardik  Pandya,MI,A,False,11
+Ishan  Kishan,MI,W,False,7.5
+Jasprit  Bumrah,MI,P,False,10
+Jayant  Yadav,MI,P,False,6
+Kieron  Pollard,MI,B,True,8.5
+Krunal  Pandya,MI,A,False,8.5
+Mitchell  McClenaghan,MI,P,True,8
+Quinton  de  Kock,MI,W,True,10
+Rahul  Chahar,MI,P,False,7.5
+Sherfane  Rutherford,MI,A,True,6.5
+Suryakumar  Yadav,MI,B,False,9
+Trent  Boult,MI,P,True,8.5
+Chris  Lynn,MI,B,True,9.5
+Nathan  Coulter-Nile,MI,P,True,8
+Saurabh  Tiwary,MI,B,False,5.5
+Mohsin  Khan,MI,P,False,6.5
+Digvijay  Deshmukh,MI,P,False,5
+Prince  Balwant  Rai  Singh,MI,P,False,5
+James  Pattinson,MI,P,True,8
+Steve  Smith,RR,B,True,10
+Ben  Stokes,RR,A,True,11
+Sanju  Samson,RR,W,False,9.5
+Andrew  Tye,RR,P,True,8
+Kartik  Tyagi,RR,P,False,6
+Ankit  Rajpoot,RR,P,False,7
+Shreyas  Gopal,RR,A,False,8.5
+Rahul  Tewatia,RR,P,False,6.5
+Jaydev  Unadkat,RR,P,False,8.5
+Mayank  Markande,RR,P,False,7
+Mahipal  Lomror,RR,A,False,6
+Oshane  Thomas,RR,P,True,7.5
+Riyan  Parag,RR,A,False,7
+Yashasvi  Jaiswal,RR,B,False,6.5
+Anuj  Rawat,RR,W,False,5
+Akash  Singh,RR,P,False,6
+Jofra  Archer,RR,P,True,9.5
+David  Miller,RR,B,True,8.5
+Jos  Buttler,RR,W,True,11.5
+Manan  Vohra,RR,B,False,7
+Shashank  Singh,RR,B,False,5.5
+Varun  Aaron,RR,P,False,7.5
+Tom  Curran,RR,P,True,8.5
+Robin  Uthappa,RR,W,False,8.5
+Anirudha  Joshi,RR,A,False,6.5
+Virat  Kohli,RCB,B,False,12.5
+Mohammed  Siraj,RCB,P,False,7
+Chris  Morris,RCB,A,True,9
+Josh  Philippe,RCB,W,True,7
+Moeen  Ali,RCB,A,True,9
+Aaron  Finch,RCB,B,True,9
+AB  de  Villiers,RCB,B,True,11.5
+Shahbaz  Ahamad,RCB,P,False,6
+Parthiv  Patel,RCB,W,False,8.5
+Yuzvendra  Chahal,RCB,P,False,9
+Navdeep  Saini,RCB,P,False,8
+Isuru  Udana,RCB,P,True,6.5
+Dale  Steyn,RCB,P,True,8.5
+Pawan  Negi,RCB,P,False,6.5
+Devdutt  Padikkal,RCB,B,False,6.5
+Shivam  Dube,RCB,A,False,7.5
+Umesh  Yadav,RCB,P,False,8.5
+Gurkeerat  Mann Singh,RCB,B,False,6.5
+Washington  Sundar,RCB,A,False,7.5
+Pavan  Deshpande,RCB,A,False,5.5
+Adam  Zampa,RCB,P,True,8.5
+David  Warner,SRH,B,True,12.5
+Rashid  Khan,SRH,P,True,10
+Sanjay  Yadav,SRH,A,False,6.5
+Wriddhiman  Saha,SRH,W,False,7.5
+Khaleel  Ahmed,SRH,P,False,8
+Sandeep  Sharma,SRH,P,False,8
+Abdul  Samad,SRH,B,False,5.5
+Mitchell  Marsh,SRH,A,True,8.5
+Shreevats  Goswami,SRH,W,False,6.5
+Mohammad  Nabi,SRH,A,True,8.5
+Fabian  Allen,SRH,A,True,6
+Abhishek  Sharma,SRH,B,False,6.5
+Basil  Thampi,SRH,P,False,6.5
+Billy  Stanlake,SRH,P,True,7.5
+Sandeep  Bavanaka,SRH,B,False,6.5
+Bhuvneshwar  Kumar,SRH,P,False,9
+Virat  Singh,SRH,B,False,6.5
+T  Natarajan,SRH,P,False,6.5
+Kane  Williamson,SRH,B,True,10
+Shahbaz  Nadeem,SRH,P,False,7.5
+Jonny  Bairstow,SRH,W,True,10.5
+Manish  Pandey,SRH,B,False,9
+Vijay  Shankar,SRH,A,False,8
+Siddarth  Kaul,SRH,P,False,8.5
+Priyam  Garg,SRH,B,False,6
+
